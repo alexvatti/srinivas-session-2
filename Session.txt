@@ -1,0 +1,105 @@
+Module 2: Data Science: Exploratory Data Analysis and Data
+Visualization
+
+Chapter 1 : Plotting for exploratory data analysis (EDA)
+    10.1 Introduction to Iris dataset and 2D scatter-plot
+    10.2 3D Scatter-plot.
+    10.3 Pair plots.
+    10.4 Limitations of Pair plots
+    10.5 Histogram and introduction to PDF(Probability Density Function)
+    10.6 Univariate analysis using PDF.
+    10.7 CDF(Cumulative distribution function)
+    10.8 Variance, Standard Deviation
+    10.9 Median
+    10.10 Percentiles and Quantiles
+    10.11 IQR(InterQuartile Range), MAD(Median Absolute Deviation).
+    10.12 Box-plot with whiskers
+    10.13 Violin plots.
+    10.14 Summarizing plots, Univariate, Bivariate, and Multivariate analysis.
+    10.15 Multivariate probability density, contour plot.
+
+Chapter 2 : Linear Algebra
+    11.1 Why learn it?
+    11.2 Introduction to Vectors (2-D, 3-D, n-D), row vectors and column vector
+    11.3 Dot product and the angle between 2 vectors.
+    11.4 Projection and unit vector
+    11.5 Equation of a line (2-D), plane(3-D) and hyperplane (n-D)
+    11.6 Distance of a point from a plane/hyperplane, half-spaces.
+    11.7 Equation of a circle (2-D), sphere (3-D) and hypersphere (n-D)
+    11.8 Equation of an ellipse (2-D), ellipsoid (3-D) and hyperellipsoid (n-D)
+    11.9 Square, Rectangle.
+    11.10 Hypercube, Hyper cuboid.
+
+Chapter 3 : Probability and Statistics
+    12.1 Introduction to Probability and Statistics.
+    12.2 Population & Sample.
+    12.3 Gaussian/Normal Distribution and its PDF(Probability Density Function).
+    12.4 CDF(Cumulative Density Function) of Gaussian/Normal Distribution
+    12.5 Symmetric distribution, Skewness, and Kurtosis
+    12.6 Standard normal variate (z) and standardization.
+    12.7 Kernel density estimation.
+    12.8 Sampling distribution & Central Limit Theorem.
+    12.9 Q-Q Plot: Is a given random variable Gaussian distributed?
+    12.10 How distributions are used?
+    12.11 Chebyshev’s inequality
+    12.12 Discrete and Continuous Uniform distributions.
+    12.13 How to randomly sample data points. [Uniform Distribution]
+    12.14 Bernoulli and Binomial distribution
+    12.15 Log-normal
+    12.16 Power law distribution
+    12.17 Box-Cox transform.
+    12.18 Application of Non-Gaussian Distributions?
+    12.19 Co-variance
+    12.20 Pearson Correlation Coefficient
+    12.21 Spearman Rank Correlation Coefficient
+    12.22 Correlation vs Causation
+    12.23 How to use Correlations?
+    12.24 Confidence Intervals(C.I) Introduction
+    12.25 Computing confidence-interval has given the underlying distribution
+    12.26 C.I for the mean of a normal random variable.
+    12.27 Confidence Interval using bootstrapping.
+    12.28 Hypothesis Testing methodology, Null-hypothesis, p-value
+    12.29 Hypothesis testing intuition with coin toss example
+    12.30 Resampling and permutation test.
+    12.31 K-S Test for the similarity of two dis
+    12.32 Code Snippet K-S Test.
+    12.33 Hypothesis Testing: another example.
+    12.34 Resampling and permutation test: another example.
+    12.35 How to use Hypothesis testing?
+    12.36 Proportional Sampling.
+
+
+Chapter 5 : Dimensionality reduction and Visualization:
+    14.1 What is dimensionality reduction?
+    14.2 Row vector, and Column vector.
+    14.3 How to represent a dataset?
+    14.4 How to represent a dataset as a Matrix.
+    14.5 Data preprocessing: Feature Normalization
+    14.6 Mean of a data matrix.
+    14.7 Data preprocessing: Column Standardization
+    14.8 Co-variance of a Data Matrix.
+    14.9 MNIST dataset (784 dimensional)
+    14.10 Code to load MNIST data set.
+
+Chapter 6 : Principal Component Analysis.
+    15.1 Why learn it.
+    15.2 Geometric intuition.
+    15.3 Mathematical objective function.
+    15.4 Alternative formulation of PCA: distance minimization
+    15.5 Eigenvalues and eigenvectors.
+    15.6 PCA for dimensionality reduction and visualization.
+    15.7 Visualize MNIST dataset.
+    15.8 Limitations of PCA
+    15.9 Code example.
+    15.10 PCA for dimensionality reduction (not-visualization)
+
+
+Chapter 7 : T-distributed stochastic neighborhood embedding (t-SNE)
+    16.1 What is t-SNE?
+    16.2 Neighborhood of a point, Embedding.
+    16.3 Geometric intuition.
+    16.4 Crowding problem.
+    16.5 How to apply t-SNE and interpret its output (distill.pub)
+    16.6 t-SNE on MNIST.
+    16.7 Code example.
+    16.8 Revision Questions
